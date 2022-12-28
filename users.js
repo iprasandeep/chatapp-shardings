@@ -18,7 +18,8 @@ const existngUser = users.find((user)  => user.room === room && user.name ===  n
 const removeUser = () =>{
     const index = users.findIndex((user) =>{
 
-    )}
+    })
+}
 const getUser = () =>{
 
 }
